@@ -99,7 +99,8 @@ To learn more about Coordinators, and especially the ideas behind this template,
         1.  https://github.com/tw-space/swift-snapshot-testing , which adds missing screen sizes
         2.  https://github.com/pointfreeco/swift-snapshot-testing , the original, which will be better maintained
     3.  Wait, then depending on step 2:
-        1.  For my personal fork, **make sure to choose *Branch: Main***, then click *Next*
+        1.  For the first URL, **make sure to choose *Branch: Main***, then click *Next*
+        2.  For the second URL, choose *Version: Up to Next Major*, then click *Next*
     4.  Wait, then for the Target, make sure to choose *PROJECTNAME-SnapshotTests*, then click *Finish*
 
 ### Uninstallation
