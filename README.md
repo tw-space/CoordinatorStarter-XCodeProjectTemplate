@@ -77,7 +77,7 @@ To learn more about Coordinators, and especially the ideas behind this template,
     ```
 3.  Open XCode, create a new project, and choose the **Coordinator Starter**, newly listed under *Application* templates.
 
-![XCode New Project Template screenshot with Coordinator Starter in focus](Resources/XCodeNewProjectTemplateScreenshot.png){width="85%"}
+<img src="Resources/XCodeNewProjectTemplateScreenshot.png" alt="XCode New Project Template screenshot with Coordinator Starter in focus" width="85%" />
 
 4.  Optionally choose to:
     -   [ ] Include Quick & Nimble specs
@@ -114,8 +114,8 @@ Run the app, explore the project files, run the tests, run the snapshots (twice)
 
 ## Screenshots
 
-![Coordinator Starter Project Navigator screenshot](Resources/CoordinatorStarterProjectNavigator.png){width="250px"}
-![Authentication screenshot](Resources/1-SignInSignUp.png){width="300px"}
-![Onboarding screenshot](Resources/2-Onboarding.png){width="300px"}
-![Items Tab screenshot](Resources/3-ItemsTab.png){width="300px"}
-![Settings Tab screenshot](Resources/4-SettingsTab.png){width="300px"}
+<img src="Resources/CoordinatorStarterProjectNavigator.png" alt="Coordinator Starter Project Navigator screenshot" width="250" />
+<img src="Resources/1-SignInSignUp.png" alt="Coordinator Starter Project Navigator screenshot" width="250" />
+<img src="Resources/2-Onboarding.png" alt="Authentication screenshot" width="250" />
+<img src="Resources/3-ItemsTab.png" alt="Items Tab screenshot" width="250" />
+<img src="Resources/4-SettingsTab.png" alt="Settings Tab screenshot" width="250" />
