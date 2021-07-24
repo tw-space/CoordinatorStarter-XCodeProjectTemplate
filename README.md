@@ -114,8 +114,11 @@ Run the app, explore the project files, run the tests, run the snapshots (twice)
 
 ## Screenshots
 
-<img src="Resources/CoordinatorStarterProjectNavigator.png" alt="Coordinator Starter Project Navigator screenshot" width="250" />
-<img src="Resources/1-SignInSignUp.png" alt="Coordinator Starter Project Navigator screenshot" width="250" />
-<img src="Resources/2-Onboarding.png" alt="Authentication screenshot" width="250" />
-<img src="Resources/3-ItemsTab.png" alt="Items Tab screenshot" width="250" />
-<img src="Resources/4-SettingsTab.png" alt="Settings Tab screenshot" width="250" />
+<p>
+  <img src="Resources/CoordinatorStarterProjectNavigator.png" alt="Coordinator Starter Project Navigator screenshot" width="250" />
+  <img src="Resources/1-SignInSignUp.png" alt="Coordinator Starter Project Navigator screenshot" width="250" />
+</p><p>
+  <img src="Resources/2-Onboarding.png" alt="Authentication screenshot" width="250" />
+  <img src="Resources/3-ItemsTab.png" alt="Items Tab screenshot" width="250" />
+  <img src="Resources/4-SettingsTab.png" alt="Settings Tab screenshot" width="250" />
+</p>
