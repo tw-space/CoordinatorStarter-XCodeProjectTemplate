@@ -8,7 +8,7 @@
   <h2 align="center">Coordinator Starter, an XCode Project Template for iOS</h3>
 
   <p align="center">
-    Jumpstart your iOS project with this starter template showcasing Coordinators.
+    Jumpstart your next iOS project with this starter XCode project template showcasing Coordinators.
     <br />
     Based on <a href="https://github.com/AndreyPanov">Andrey Panov</a>'s
     <a href="https://github.com/AndreyPanov/ApplicationCoordinator">ApplicationCoordinator</a> tutorial.
